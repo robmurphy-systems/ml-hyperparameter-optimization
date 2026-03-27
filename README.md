@@ -1,2 +1,2 @@
 # ml-hyperparameter-optimization
-Hyperparameter tuning using search techniques to optimize model performance
+Optimization framework for ML models using systematic hyperparameter tuning and performance evaluation.
